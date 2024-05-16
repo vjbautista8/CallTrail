@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "./static/css/main.90dc3ab6.css",
+    "main.js": "./static/js/main.b857ba53.js",
+    "static/media/Zoho_Puvi_Regular.woff2": "./static/media/Zoho_Puvi_Regular.7d5a40d266bdec720a7a.woff2",
+    "static/media/Zoho_Puvi_Medium.woff2": "./static/media/Zoho_Puvi_Medium.d53d8d4fb46b582da92b.woff2",
+    "static/media/Zoho_Puvi_Bold.woff2": "./static/media/Zoho_Puvi_Bold.1aa494a64d4ae93aab26.woff2",
+    "static/media/Zoho_Puvi_Semibold.woff2": "./static/media/Zoho_Puvi_Semibold.7512826fad1e6b231cae.woff2",
+    "static/media/no_data_found.png": "./static/media/no_data_found.3c8e5cc7114e648e4ed3.png",
+    "index.html": "./index.html",
+    "main.90dc3ab6.css.map": "./static/css/main.90dc3ab6.css.map",
+    "main.b857ba53.js.map": "./static/js/main.b857ba53.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90dc3ab6.css",
+    "static/js/main.b857ba53.js"
+  ]
+}
